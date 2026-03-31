@@ -1,4 +1,3 @@
-package Classroom;
 
 public class Detect_loop_in_ll {
     public boolean hasCycle(ListNode head) { 
