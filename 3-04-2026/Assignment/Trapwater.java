@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class Tapwater{
+public class Trapwater{
 
     public static int trap(int[] height) {
         Stack<Integer> stack = new Stack<>();
